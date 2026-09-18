@@ -1,0 +1,2 @@
+This educational project is provided for academic and learning purposes.
+You may modify and reuse the source code for coursework and personal learning.

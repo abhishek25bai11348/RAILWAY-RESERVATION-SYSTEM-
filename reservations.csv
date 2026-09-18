@@ -1,0 +1,2 @@
+pnr,passengerId,name,age,gender,phone,trainNumber,seatClass,seatNumber,fare,journeyDate,active
+PNR4151AA1F,P00001,Abhishek,19,M,4534923645,12001,AC_THREE_TIER,1,1450.55,2026-11-01,true
